@@ -14,7 +14,7 @@ The sentiments identified in this project will include positive, negative, and n
 
 To evaluate the performance of our sentiment analysis model, we will utilize various classifiers. By experimenting with different classifiers such as Naive Bayes, Support Vector Machines (SVM), and Random Forest, among others, we aim to identify the classifier that provides the highest model accuracy. This comparison will enable us to determine the most effective approach for sentiment analysis in the context of Pfizer vaccines.
 
-## overview:
+## Overview:
 Throughout the project, we will follow industry-standard practices for data preprocessing, model training, and evaluation. We will split the dataset into training and testing sets to validate the model's performance. 
 
 The successful completion of this project will yield a reliable sentiment analysis model capable of accurately categorizing tweets into positive, negative, or neutral sentiments towards Pfizer vaccines. This model will provide valuable insights into public sentiments and opinions, facilitating a better understanding of how people perceive Pfizer vaccines on Twitter
